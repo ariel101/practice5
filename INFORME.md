@@ -196,7 +196,6 @@ En esta sección se debe mostrar el historial de ejecuciones automáticas del wo
 
 ### Captura de Pantalla
 
-> INSERTAR CAPTURA AQUÍ
 
 ![Historial Actions](./screenshot/historialEjecuciones2.png)
 
@@ -210,7 +209,6 @@ Se evidencia la ejecución exitosa del pipeline CI mostrando todas las etapas co
 
 ### Captura de Pantalla
 
-> INSERTAR CAPTURA AQUÍ
 
 ![Workflow Exitoso](./screenshot/workflow_exitoso.png)
 
@@ -224,7 +222,6 @@ Se muestra el reporte de cobertura generado por Jest indicando el porcentaje de 
 
 ### Captura de Pantalla
 
-> INSERTAR CAPTURA AQUÍ
 
 ![Coverage](./screenshot/coverturaPruebas.png)
 
@@ -238,7 +235,6 @@ Se provocó intencionalmente un error en los tests para verificar que GitHub Act
 
 ### Captura de Pantalla
 
-> INSERTAR CAPTURA AQUÍ
 
 ![Workflow Fallido](./screenshot/workflow_fallido.png)
 
@@ -256,7 +252,6 @@ Esto obliga a que el pipeline CI se ejecute correctamente antes de permitir merg
 
 ### Captura de Pantalla
 
-> INSERTAR CAPTURA AQUÍ
 
 ![Branch Protection](./screenshot/branch_protection.png)
 
@@ -270,7 +265,6 @@ Se creó una Pull Request desde una rama feature hacia main para comprobar que G
 
 ### Captura de Pantalla
 
-> INSERTAR CAPTURA AQUÍ
 
 ![Pull Request](./screenshot/merge_pull_request.png)
 ![Pull Request](./screenshot/merge_pull_request2.png)
