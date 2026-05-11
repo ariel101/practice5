@@ -272,9 +272,9 @@ Se creó una Pull Request desde una rama feature hacia main para comprobar que G
 
 > INSERTAR CAPTURA AQUÍ
 
-![Pull Request](./screenshot/merge_pull-request.png)
-![Pull Request](./screenshot/merge_pull-request2.png)
-![Pull Request](./screenshot/merge_pull-request3.png)
+![Pull Request](./screenshot/merge_pull_request.png)
+![Pull Request](./screenshot/merge_pull_request2.png)
+![Pull Request](./screenshot/merge_pull_request3.png)
 
 ---
 
